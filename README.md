@@ -1,6 +1,6 @@
 <img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/c7ea2c79-695b-4c00-bbd1-8043555145d8" />
 
-# Complex Systems, Simply Explained
+
 
 ## ✨ Hello There! Welcome ✨
 Tech can feel intimidating at first. This repository is designed to make core IT concepts easier to understand through analogies, visuals, PowerShell breakdowns, and beginner-friendly examples.
