@@ -39,7 +39,8 @@ I’m especially interested in:
 - AI-assisted learning for beginners
 - Creating beginner-friendly technical resources
 
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/944eee51-3491-47d9-840c-97ead8e9c829" />
+<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/525a8cbe-4111-4f33-a8ce-88eac93f9116" />
+
 
 ---
 
@@ -116,7 +117,6 @@ That’s the mindset behind the work I’m building here.
   <i>Making complex systems feel a little more human, one explanation at a time.</i>
 </p>
 
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/c7ea2c79-695b-4c00-bbd1-8043555145d8" />
 
 
 
