@@ -1,4 +1,5 @@
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/1282fe2c-4d49-4421-a7ae-2b6064684d0b" />
+<img width="1000" height="400" alt="cover" src="https://github.com/user-attachments/assets/0784232c-6e76-42e8-9474-4d781e54b762" />
+
 
 
 <h1 align="center">Hi, I'm Alyssa 👋</h1>
@@ -30,12 +31,15 @@ I'm currently building my foundation in **Windows Server, networking, identity, 
 What makes this portfolio different is the way I like to learn and explain:  
 I enjoy taking technical topics that feel overwhelming at first and turning them into something clearer, more visual, and easier to understand.
 
+
 I’m especially interested in:
 - Windows Server fundamentals
 - Networking and identity concepts
 - PowerShell automation
 - AI-assisted learning for beginners
 - Creating beginner-friendly technical resources
+
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/944eee51-3491-47d9-840c-97ead8e9c829" />
 
 ---
 
