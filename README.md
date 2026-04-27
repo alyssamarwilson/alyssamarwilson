@@ -39,7 +39,8 @@ I’m especially interested in:
 - AI-assisted learning for beginners
 - Creating beginner-friendly technical resources
 
-<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/525a8cbe-4111-4f33-a8ce-88eac93f9116" />
+<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/3c72a1bc-9f23-44d4-90b3-8773ddc69c38" />
+
 
 
 ---
