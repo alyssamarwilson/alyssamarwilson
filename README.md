@@ -111,11 +111,20 @@ Being able to explain it clearly enough for someone else to understand is import
 That’s the mindset behind the work I’m building here.
 
 ---
-
 ## Let's Connect
 
-- LinkedIn: [www.linkedin.com/in/alyssa-mar-wilson]
-- GitHub Projects: [(https://github.com/alyssamarwilson/complex-systems-simply-explained)]
+I'm currently building my foundation in Windows Server, networking, identity, cloud administration, and PowerShell through the Microsoft Software and Systems Academy (MSSA).
+
+I'm especially interested in roles and opportunities where I can combine technical learning, clear communication, and people-first problem solving, including:
+
+- IT support and systems administration
+- Cloud and server administration
+- Customer success or adoption roles
+- Technical education, documentation, or enablement
+- Beginner-friendly AI and technology learning resources
+
+📌 Featured Project: [Complex Systems, Simply Explained](https://github.com/alyssamarwilson/complex-systems-simply-explained)  
+🔗 LinkedIn: [www.linkedin.com/in/alyssa-mar-wilson](https://www.linkedin.com/in/alyssa-mar-wilson)
 
 <p align="center">
   <i>Making complex systems feel a little more human, one explanation at a time.</i>
