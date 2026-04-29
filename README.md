@@ -59,7 +59,7 @@ I’m especially interested in:
 
 ## ⚙️ Featured Project
 
-### [Complex Systems, Simply Explained](https://github.com/alyssamarwilson/complex-systems-simply-explained)
+## [Complex Systems, Simply Explained](https://github.com/alyssamarwilson/complex-systems-simply-explained)
 
 Explore a steampunk-inspired digital city where complex systems are broken down into beginner-friendly explanations, visuals, PowerShell examples, and real-world IT scenarios.
 
